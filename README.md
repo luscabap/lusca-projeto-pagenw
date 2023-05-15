@@ -10,7 +10,7 @@
 
 ## 🖥️ Sobre o projeto
 
-O projeto do Newsletter foi desenvolvido usando HTML e Tailwind. Possui a principal funcionalde de estudar e testar a tecnologia Tailwind. 
+O projeto do Newsletter foi desenvolvido usando HTML e Tailwind. Possui a principal funcionalidade de estudar e testar a tecnologia Tailwind. 
 
 A pagina possui responsividade para 3 tipos de telas diferentes: Desktop, Laptop e Mobile. Possui também animações no botão "Inscreva-se" e no sino, que faz um shake e sinaliza que está emitindo som.
 
